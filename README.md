@@ -1,3 +1,5 @@
+# Contact Me For Updated Softwares
+- https://t.me/SizaGod
 # TikTok Login Integration (Email and Password)
 
 This repository demonstrates how to implement TikTok login functionality using a simple email and password method, extracted from the mobile application. No TikTok developer account or API keys are required for this approach.
